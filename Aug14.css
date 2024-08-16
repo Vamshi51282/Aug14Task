@@ -1,0 +1,20 @@
+.a{
+    /*box-shadow: 3px 3px 4px 4px palegreen;*/
+    word-spacing: 1px;
+    width: 400px; 
+    height: 450px;
+    background: palegreen;
+    /*background-color: cornflowerblue ;
+    background: linear-gradient(pink, green, aqua, purple);*/
+}
+#b{
+   /* box-shadow: 15px 20px 25px 15px palevioletred;*/
+    word-spacing: 2px;
+    width: 1000px;
+    height: 450px;
+    background: palevioletred;
+}
+div{
+    display: flex;
+    gap: 20px;
+}
